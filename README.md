@@ -12,6 +12,9 @@ The MotionMesh System consists of the following components:
 
 3. MeshCore: This software, MeshCore, serves as the backbone of the system. It handles the communication between the MeshPilot and the MeshNodes, enabling seamless control and coordination.
 
+## Functionality
+
+
 ## Getting Started
 
 
